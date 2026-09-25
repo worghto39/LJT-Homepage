@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Junteng Liu is a first-year Ph.D. candidate in the [HKUST NLP Group](https://github.com/Vicent0205) at the Hong Kong University of Science and Technology (HKUST), advised by Prof. Junxian He. He received his B.Eng. from Shanghai Jiao Tong University (SJTU) in June 2024. His research focuses on natural language processing and machine learning.
+Junteng Liu is a first-year Ph.D. candidate in the HKUST NLP Group at the Hong Kong University of Science and Technology (HKUST), advised by Prof. Junxian He. He received his B.Eng. from Shanghai Jiao Tong University (SJTU) in June 2024. His research focuses on natural language processing and machine learning.
 
 ## Research Interests
 
